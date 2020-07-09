@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Hunter.
+
+- 🌱 I’m currently learning Java.
+
 
 <!--
 **lq920320/lq920320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
