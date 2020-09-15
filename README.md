@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hunter's blogs.](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/lq920320/blogs)
+[![Hunter's blogs.](https://github-readme-stats.vercel.app/api?username=lq920320)](https://github.com/lq920320/blogs)
