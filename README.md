@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 -->
 
 [![Hunter's blogs.](https://github-readme-stats.vercel.app/api?username=lq920320)](https://github.com/lq920320/blogs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lq920320&show_icons=true)
