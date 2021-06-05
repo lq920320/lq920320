@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Hunter.
 
+[博客](https://github.com/lq920320/blogs) - [微信公众号:程序员木头的悲惨生活] - [掘金](https://juejin.cn/user/835284567603096) 
+
 - 🌱 I’m currently learning Java.
 
 
@@ -19,6 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hunter's blogs.](https://github-readme-stats.vercel.app/api?username=lq920320)](https://github.com/lq920320/blogs)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lq920320&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lq920320&show_icons=true)
+
+
+[![Hunter's blogs.](https://github-readme-stats.vercel.app/api?username=lq920320)](https://github.com/lq920320/blogs)
 
 
