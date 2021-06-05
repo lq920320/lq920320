@@ -1,7 +1,10 @@
 ### Hi there 👋
 I'm Hunter.
 
-[博客](https://github.com/lq920320/blogs) - [微信公众号:程序员木头的悲惨生活] - [掘金](https://juejin.cn/user/835284567603096) 
+[博客](https://github.com/lq920320/blogs) - [微信公众号](https://mp.weixin.qq.com/s?__biz=MzIzMTI3MDAzOQ==&mid=2247483985&idx=1&sn=4414a3304e20a2215dcab35453466f92&chksm=e8a7f1a9dfd078bfa326e4845f235eb16c9786224de1bfde334f0b57fe76ca58707916bbe1e1&token=2126406469&lang=zh_CN#rd) - [掘金](https://juejin.cn/user/835284567603096) 
+
+qrcode_for_gh_fcbd26372759_258.jpg![image](https://user-images.githubusercontent.com/18696549/120892376-941bf980-c640-11eb-9694-d7b242c670bd.png)
+
 
 - 🌱 I’m currently learning Java.
 
